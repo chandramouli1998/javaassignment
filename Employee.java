@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Employee {
-	String frstName;
-String secondName;
-double monthSalary;
+	private String frstName;
+private String secondName;
+private double monthSalary;
 public Employee()
 {
 	frstName=null;

@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Date1 {
-	int month;
-	int day;
-	int year;
+	private int month;
+	private int day;
+	private int year;
 public Date1()
 {
 	month=0;
